@@ -1,3 +1,1 @@
-import mobPic from './mob.png';
-
-export default { mobPic };
+export { mobPic } from './mob.png';
